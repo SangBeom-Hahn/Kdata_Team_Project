@@ -6,6 +6,32 @@
 ## Files
 
 ## Dataset
+```
+├── 경영지표
+|   ├── 01. 공정별 생산제품.xlsx
+|   ├── 02. 설비별 생산제품.xlsx
+|   ├── 03. 설비가동리스트.xlsx
+|   ├── 04. 장기정체재공.xlsx
+|   ├── 05. 품질리스트.xlsx
+|   ├── 06. 재공리스트.xlsx
+|   └── 07. 수주리스트.xlsx
+|
+├── 생산실적조회
+|   ├── 01. 생산제품.xlsx
+|   ├── 02. 모델.xlsx
+|   ├── 03. 공정세그먼트.xlsx
+|   ├── 04. 공정.xlsx
+|   ├── 05. 설비.xlsx
+|   └── 06. 라우트.xlsx
+|
+├── 가공부서_CYCLE_TIME
+|   ├── CNC
+|   |   └── CNC_cycle_time.xlsx 
+|   ├── MCT
+|   |   └── mct_cycle_time.xlsx
+|   ├── 리드타임_추출_원본.xlsx
+|   └── 수주현황.xlsx
+```
 
 ## Preprocessing
 
