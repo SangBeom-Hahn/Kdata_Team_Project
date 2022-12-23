@@ -6,6 +6,7 @@
 본 프로젝트는 기계부품 제조업 공장의 생산성 증대를 위한 최적의 생산 운영 계획 및 전략을 제시한다. MES 데이터 분석을 통해 생산 현황을 파악하고 공정에서의 병목 원인을 추측하며 안전 재고량을 계산한다. 이를 통해서 고객 만족도 향상, 작업 및 품질 개선을 목표로 한다.
 
 ![fac](https://github.com/SangBeom-Hahn/Kdata_Team_Project/blob/main/solution/factory.jpg)
+
 출처 : 캐드앤그래픽스
 
 ## Files
