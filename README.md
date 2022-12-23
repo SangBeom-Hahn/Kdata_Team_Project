@@ -66,25 +66,25 @@
 ## Solution
 ### 1. 수요 전략 및 생산 운영 계획 관점
 
-![sol1](https://github.com/SangBeom-Hahn/OpenSW_Team5/blob/main/sample_image/main.jpg)
-- 수요량과 생산량 그래프를 이중 축으로 나타낸 결과 AY, BU, ZD 고객사의 제품은 생산량이 수요량보다 많았다. AY, BU, ZD 고객사의 1달간 수요량을 이동평균법으로 예측한 결과 예측된 수요량에 비해 재고량이 압도적으로 많아서 생산량을 줄여야 한다는 결론을 도출할 수 있다.
+![sol1](https://github.com/SangBeom-Hahn/Kdata_Team_Project/blob/main/solution/sol1.PNG)
+수요량과 생산량 그래프를 이중 축으로 나타낸 결과 AY, BU, ZD 고객사의 제품은 생산량이 수요량보다 많았다. AY, BU, ZD 고객사의 1달간 수요량을 이동평균법으로 예측한 결과 예측된 수요량에 비해 재고량이 압도적으로 많아서 생산량을 줄여야 한다는 결론을 도출할 수 있다.
 
 
 
 ### 2. 재고 관리 관점
 
-![predict](https://github.com/SangBeom-Hahn/OpenSW_Team5/blob/main/sample_image/main.jpg)
-- DP, KT 고객사는 수요량이 생산량보다 많을 시기가 종종 있었고 이러한 원인을 안전 재고량을 고려하지 않았기 때문이라고 판단하였다. 따라서 공식에 따라 안전 제고량을 계산하였다.
+![sol1](https://github.com/SangBeom-Hahn/Kdata_Team_Project/blob/main/solution/sol2.PNG)
+DP, KT 고객사는 수요량이 생산량보다 많을 시기가 종종 있었고 이러한 원인을 안전 재고량을 고려하지 않았기 때문이라고 판단하였다. 따라서 공식에 따라 안전 제고량을 계산하였다.
 
 
 
 ### 3. 최적의 공정 관점
 
-![predict](https://github.com/SangBeom-Hahn/OpenSW_Team5/blob/main/sample_image/main.jpg)
-- 프로세스 마이닝 결과 동일한 제품이 다양한 라우트로 생산 된다는 점을 발견하였다. 이 점은 해당 기업이 job-shop 형태의 공정과정을 사용하기 때문이다. 동일한 제품의 다양한 라우트 중 리드 타임이 짧은 라우트가 최적의 공정임을 알 수 있다.
+![sol1](https://github.com/SangBeom-Hahn/Kdata_Team_Project/blob/main/solution/sol3.PNG)
+프로세스 마이닝 결과 동일한 제품이 다양한 라우트로 생산 된다는 점을 발견하였다. 이 점은 해당 기업이 job-shop 형태의 공정과정을 사용하기 때문이다. 동일한 제품의 다양한 라우트 중 리드 타임이 짧은 라우트가 최적의 공정임을 알 수 있다.
 
-![predict](https://github.com/SangBeom-Hahn/OpenSW_Team5/blob/main/sample_image/main.jpg)
-- 이러한 차이가 발생하는 원인이 병목이라고 의심하였고, 이를 시뮬레이션을 통해 해결할 수 있었다.
+![sol1](https://github.com/SangBeom-Hahn/Kdata_Team_Project/blob/main/solution/sol3-2.PNG)
+이러한 차이가 발생하는 원인이 병목이라고 의심하였고, 이를 시뮬레이션을 통해 해결할 수 있었다.
 
 
 
