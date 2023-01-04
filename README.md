@@ -143,5 +143,5 @@ A) 최초 목표로 잡았던 리드타임 예측을 하기에는 데이터의 �
 ## Author
 👤 **SangBoem-Hahn**
 
-- Github: [@SangBoem-Hahn](https://github.com/SangBoem-Hahn)
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
 - Blog : [Tistory(DataProject)](https://hsb422.tistory.com/entry/MES-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%B5%9C%EC%A0%81%EC%9D%98-%EC%83%9D%EC%82%B0%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95)
